@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @symanmh
+- 👋 Hi, I’m Muhammad Syaman. Your guys call me Syaman.
 - 👀 I’m interested in about technology
 - 🌱 I’m currently learning web development and android development
 - 💞️ I’m looking to collaborate on newbie in coding
